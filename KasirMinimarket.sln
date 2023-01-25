@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KasirMinimarket", "KasirMinimarket.csproj", "{ADB30858-57A5-4517-B9C5-35C5E4F5120E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB30858-57A5-4517-B9C5-35C5E4F5120E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB30858-57A5-4517-B9C5-35C5E4F5120E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB30858-57A5-4517-B9C5-35C5E4F5120E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB30858-57A5-4517-B9C5-35C5E4F5120E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74109506-6EBE-447F-9B75-8A8F236071CD}
+	EndGlobalSection
+EndGlobal
